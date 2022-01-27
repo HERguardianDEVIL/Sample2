@@ -1,0 +1,16 @@
+{
+  "name": "sample2",
+  "version": "1.0.0",
+  "description": "PDM workshop",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prashant",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7"
+  }
+}
